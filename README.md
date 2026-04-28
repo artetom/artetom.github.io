@@ -12,12 +12,23 @@ LinkedIn account: [https://www.linkedin.com/in/artem-tomilo-9800291a7/](https://
 
 Facebook account: [https://www.facebook.com/profile.php?id=61561555273927&locale=de_DE](https://www.facebook.com/profile.php?id=61561555273927&locale=de_DE)
 
+ORCID account: [http://orcid.org/0000-0002-5390-2767](http://orcid.org/0000-0002-5390-2767)
+
+Google Scholar account: [https://scholar.google.com/citations?user=PJDjbzcAAAAJ&hl=en&authuser=1](https://scholar.google.com/citations?user=PJDjbzcAAAAJ&hl=en&authuser=1)
+
 ## Education
 
 - University of Crete (PhD degree, 2024 - now)
 - Dresden University of Technology (master's degree, 2021 – 2023)
 - Taras Shevchenko National University of Kyiv (with Honor, bachelor's degree, 2017 – 2021)
 - Cherkasy Physics and Mathematics Lyceum (with Honor, school diploma, 2012-2017)
+
+## Brief Biography
+
+My name is Artem Tomilo. I was born in 1999 at middle sized city Cherkasy (Ukraine). Since childhood, I have been passionate about 
+mathematics and natural science. During 2012-2017, I studied at the elite Cherkasy Physics and Mathematics Lyceum, where I became 
+interested in the usage of mathematics in applied problems from simulating physical processes to optimizing railway routes. In 2017, 
+my work on heuristic algorithms for passenger rail travel won the Presidential Scholarship of Ukraine.
 
 ## Interests and Hobbies
 
