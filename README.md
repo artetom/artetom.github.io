@@ -30,6 +30,12 @@ mathematics and natural science. During 2012-2017, I studied at the elite Cherka
 interested in the usage of mathematics in applied problems from simulating physical processes to optimizing railway routes. In 2017, 
 my work on heuristic algorithms for passenger rail travel won the Presidential Scholarship of Ukraine.
 
+After that, I entered the best university in Ukraine, namely Taras Shevchenko National University of Kyiv on bachelor's program in 
+Computer Engineering. As part of my undergraduate studies, I joined the group of Prof. Denis Sheka, where I developed a high-performance 
+spin-lattice simulator for magnetic research SLaSi (URL: [http://slasi.knu.ua/](http://slasi.knu.ua/)). This software package has the 
+ability to perform calculations on a graphic card and multiple CPU cores. Within the framework of this project, three articles were 
+written, as well as several scientific conferences were attended and several scientific visits were made to scientific institutes in Germany.
+
 I have completed my master's degree at the Dresden University of Technology under the program Computational Modeling and Simulation.
 This study was sponsored by the German DAAD foundation to support foreign young people in studying for a master's degree in Germany.
 During this studying, I learned the latest computational techniques for simulating discrete and continuous physical systems (finite 
