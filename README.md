@@ -61,6 +61,9 @@ slight increase in execution time.
 
 ## Main Achievements
 
+- Training program in Cyprus Institute from EU 
+- Internship in Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG) with grant for a short research study,
+Dresden, Germany (2022), URL: [https://www.mpi-cbg.de/](https://www.mpi-cbg.de/) 
 - Student grant to receive master’s degree for all scientific subjects from non-profit foundation DAAD, Studying in Dresden,
 Germany (2021), URL: [https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200)
 - Participation in Huawei educational program “Seeds for Future”, Visit to Beijing and Shenzhen, China (2019), URL:
