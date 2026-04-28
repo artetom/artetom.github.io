@@ -4,10 +4,13 @@
 
 ## Contact
 
-University email (University of Crete): [link text](artem.tomilo@math.uoc.gr)
-Institute email (FORTH): [link_text](artem.tomilo@iacm.forth.gr)
-Linkedin account: [link_text](https://www.linkedin.com/in/artem-tomilo-9800291a7/)
-Facebook account: [link_text](https://www.facebook.com/profile.php?id=61561555273927&locale=de_DE)
+University email (University of Crete): [artem.tomilo@math.uoc.gr](artem.tomilo@math.uoc.gr)
+
+Institute email (FORTH): [artem.tomilo@iacm.forth.gr](artem.tomilo@iacm.forth.gr)
+
+Linkedin account: [https://www.linkedin.com/in/artem-tomilo-9800291a7/](https://www.linkedin.com/in/artem-tomilo-9800291a7/)
+
+Facebook account: [https://www.facebook.com/profile.php?id=61561555273927&locale=de_DE](https://www.facebook.com/profile.php?id=61561555273927&locale=de_DE)
 
 ## Brief Biography
 
