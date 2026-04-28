@@ -59,6 +59,14 @@ slight increase in execution time.
 - Sport: basketball, swimming and badminton
 - Entertainment: traveling, art-rock and reading
 
+## Main Achievements
+
+- Huawei educational program “Seeds for Future”, Visit to Beijing and Shenzhen, China (2019), URL:
+[https://www.huawei.com/minisite/seeds-for-the-future/program.html](https://www.huawei.com/minisite/seeds-for-the-future/program.html)
+- Participation in the Research Group Linkage Programme of Prof. D. Sheka from Alexander von Humboldt Foundation  “Statics and dynamics of
+topological textures in curved magnetic nanoobjects”, Visit to Dresden (2018), URL:
+[https://www.humboldt-foundation.de/en/apply/alumni-programmes/alumni-abroad/research-group-linkage-programme](https://www.humboldt-foundation.de/en/apply/alumni-programmes/alumni-abroad/research-group-linkage-programme)
+
 ## Publications
 
 Articles:
@@ -66,14 +74,17 @@ Articles:
 - Oleksandr V. Pylypovskyi, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner,
 René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky,
 and Denys Makarov, “Effects of geometry on antiferromagnetic textures: boundaries and
-geometric curvature”, In: Phys. Rev. Applied 20, 014020 (2023)
+geometric curvature”, In: Phys. Rev. Applied 20, 014020 (2023), URL:
+[https://doi.org/10.1103/PhysRevApplied.20.014020](https://doi.org/10.1103/PhysRevApplied.20.014020)
 - Oleksandr V. Pylypovskyi, Artem V. Tomilo, Denis D. Sheka, Jürgen Fassbender, Denys
 Makarov, “Boundary conditions for the Néel order parameter in a chiral antiferromagnetic
-slab”, In: Physical Review B, 103, 134413 (2021)
+slab”, In: Physical Review B, 103, 134413 (2021), URL:
+[https://doi.org/10.1103/PhysRevB.103.134413](https://doi.org/10.1103/PhysRevB.103.134413)
 - Oleksandr V. Pylypovskyi, Denys Y. Kononenko, Kostiantyn V. Yershov, Ulrich K. Rößler,
 Artem V. Tomilo, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, and Denis D.
 Sheka, “Curvilinear one-dimensional antiferromagnets”, In: Nano Letters, 20, 8157–8162
-(2020)
+(2020), URL:
+[https://doi.org/10.1021/acs.nanolett.0c03246](https://doi.org/10.1021/acs.nanolett.0c03246)
 
 Conference proceedings:
 
@@ -93,8 +104,9 @@ and geometric curvature”, APS March Meeting, March 20-22, Las Vegas, USA (2023
 Curvilinear Condensed Matter: Fundamentals and Applications, June 24-26, Online
 Seminar (2021)
 - Artem V. Tomilp, Oleksandr V. Pylypovskyi, Kostiantyn V. Yershov, and Denis D. Sheka,
-“Parallel computing of elastic magnetic systems at the nanoscale”, Proceedings of the Sixth
-International Conference on High Performance Computing, November 6-7, Kyiv, Ukraine
+“Simulation of 3D spin chains with geometry-driven anisotropy ”, Proceedings of the XVIII
+International Young Scientists Conference On Applied Physics, March 24-27, Kyiv, Ukraine
+(2018)
 - Artem V. Tomilo, Yuriy S. Bilogorodsky, “Using of crowdsourcing technology combined
 with an ant algorithm to find optimal routes by rail”, Proceedings of All-Ukrainian Research
 Paper Defense Competition of the Junior Academy of Sciences, April 25-28, Kyiv, Ukraine
