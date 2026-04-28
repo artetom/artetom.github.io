@@ -24,3 +24,36 @@ Facebook account: [https://www.facebook.com/profile.php?id=61561555273927&locale
 
 Articles:
 
+1. Oleksandr V. Pylypovskyi, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner,
+René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky,
+and Denys Makarov, “Effects of geometry on antiferromagnetic textures: boundaries and
+geometric curvature”, In: Phys. Rev. Applied 20, 014020 (2023)
+2. Oleksandr V. Pylypovskyi, Artem V. Tomilo, Denis D. Sheka, Jürgen Fassbender, Denys
+Makarov, “Boundary conditions for the Néel order parameter in a chiral antiferromagnetic
+slab”, In: Physical Review B, 103, 134413 (2021)
+3. Oleksandr V. Pylypovskyi, Denys Y. Kononenko, Kostiantyn V. Yershov, Ulrich K. Rößler,
+Artem V. Tomilo, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, and Denis D.
+Sheka, “Curvilinear one-dimensional antiferromagnets”, In: Nano Letters, 20, 8157–8162
+(2020)
+
+Conference proceedings:
+
+- Artem Tomilo, Nikolaos Patsalidis, George Sakellion, Evangelos Harmandaris “Molecular Dynamics
+Simulations for Organic Molecules using Atomic Cluster Expansion Potentials”, Proceedings of
+15th Hellenic Polymer Society Conference, December 3-6, Patras, Greece (2025)
+- Artem Tomilo, Nikolaos Patsalidis, George Sakellion, Evangelos Harmandaris “Atomistic
+Cluster Expansion Methods For Machine Learning Potentials of Organic Systems”,
+Proceedings of XXXIX (39th) Panhellenic Conference on Solid State Physics & Materials Science,
+September 14-17, Paphos, Cyprus (2025)
+- Oleksandr V. Pylypovskyi, Yelyzaveta Borysenko, Artem V. Tomilo, Denys Kononenko,
+Kostiantyn Yershov, Ulrich Roessler, Jürgen Fassbender, Jeroen van den Brink, Denis D.
+Sheka and Denys Makarov, “Effects of geometry on antiferromagnetic textures: boundaries
+and geometric curvature”, APS March Meeting, March 20-22, Las Vegas, USA (2023)
+- Artem V. Tomilp, Oleksandr V. Pylypovskyi, Kostiantyn V. Yershov, and Denis D. Sheka,
+“Parallel computation of 3D magnetic structures”, Proceedings of the WE-Heraeus-Seminar
+Curvilinear Condensed Matter: Fundamentals and Applications, June 24-26, Online
+Seminar (2021)
+- Artem V. Tomilp, Oleksandr V. Pylypovskyi, Kostiantyn V. Yershov, and Denis D. Sheka,
+“Parallel computing of elastic magnetic systems at the nanoscale”, Proceedings of the Sixth
+International Conference on High Performance Computing, November 6-7, Kyiv, Ukraine
+
