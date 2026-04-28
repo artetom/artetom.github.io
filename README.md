@@ -56,16 +56,18 @@ slight increase in execution time.
 ## Interests and Hobbies
 
 - Interests: history, modern literature, astronomy
-- Sport: basketball, swimming and badminton
+- Sport: basketball, swimming and hiking
 - Entertainment: traveling, art-rock and reading
 
 ## Main Achievements
 
-- Huawei educational program “Seeds for Future”, Visit to Beijing and Shenzhen, China (2019), URL:
+- Participation in Huawei educational program “Seeds for Future”, Visit to Beijing and Shenzhen, China (2019), URL:
 [https://www.huawei.com/minisite/seeds-for-the-future/program.html](https://www.huawei.com/minisite/seeds-for-the-future/program.html)
-- Participation in the Research Group Linkage Programme of Prof. D. Sheka from Alexander von Humboldt Foundation  “Statics and dynamics of
-topological textures in curved magnetic nanoobjects”, Visit to Dresden (2018), URL:
+- Participation in the Research Group Linkage Programme of Prof. D. Sheka from Alexander von Humboldt Foundation “Statics and dynamics of
+topological textures in curved magnetic nanoobjects”, Visit to Dresden, Germany (2018), URL:
 [https://www.humboldt-foundation.de/en/apply/alumni-programmes/alumni-abroad/research-group-linkage-programme](https://www.humboldt-foundation.de/en/apply/alumni-programmes/alumni-abroad/research-group-linkage-programme)
+- The most prestigious Scholarship of the President of Ukraine for school students, Kyiv, Ukraine (2017), URL:
+[https://zakon.rada.gov.ua/laws/show/1419/98#Text](https://zakon.rada.gov.ua/laws/show/1419/98#Text)
 
 ## Publications
 
@@ -90,25 +92,31 @@ Conference proceedings:
 
 - Artem Tomilo, Nikolaos Patsalidis, George Sakellion, Evangelos Harmandaris “Molecular Dynamics
 Simulations for Organic Molecules using Atomic Cluster Expansion Potentials”, Proceedings of
-15th Hellenic Polymer Society Conference, December 3-6, Patras, Greece (2025)
+15th Hellenic Polymer Society Conference, December 3-6, Patras, Greece (2025), URL:
+[https://polyconf15.gr/wp-content/uploads/2025/12/FINAL-ABSTRACT-BOOK-TOTAL-18-12.pdf](https://polyconf15.gr/wp-content/uploads/2025/12/FINAL-ABSTRACT-BOOK-TOTAL-18-12.pdf)
 - Artem Tomilo, Nikolaos Patsalidis, George Sakellion, Evangelos Harmandaris “Atomistic
 Cluster Expansion Methods For Machine Learning Potentials of Organic Systems”,
 Proceedings of XXXIX (39th) Panhellenic Conference on Solid State Physics & Materials Science,
-September 14-17, Paphos, Cyprus (2025)
+September 14-17, Paphos, Cyprus (2025), URL:
+[https://fsk2025.cut.ac.cy/FSK39_2025_Paphos%20-%20ABSTRACTS%20BOOK.pdf](https://fsk2025.cut.ac.cy/FSK39_2025_Paphos%20-%20ABSTRACTS%20BOOK.pdf)
 - Oleksandr V. Pylypovskyi, Yelyzaveta Borysenko, Artem V. Tomilo, Denys Kononenko,
 Kostiantyn Yershov, Ulrich Roessler, Jürgen Fassbender, Jeroen van den Brink, Denis D.
 Sheka and Denys Makarov, “Effects of geometry on antiferromagnetic textures: boundaries
-and geometric curvature”, APS March Meeting, March 20-22, Las Vegas, USA (2023)
+and geometric curvature”, APS March Meeting, March 20-22, Las Vegas, USA (2023), URL:
+[https://meetings.aps.org/Meeting/MAR23/Session/SS01.16](https://meetings.aps.org/Meeting/MAR23/Session/SS01.16)
 - Artem V. Tomilp, Oleksandr V. Pylypovskyi, Kostiantyn V. Yershov, and Denis D. Sheka,
 “Parallel computation of 3D magnetic structures”, Proceedings of the WE-Heraeus-Seminar
 Curvilinear Condensed Matter: Fundamentals and Applications, June 24-26, Online
-Seminar (2021)
+Seminar (2021), URL:
+[https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2021/curvilinear-condensed-matter-fundamentals-and-applications/](https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2021/curvilinear-condensed-matter-fundamentals-and-applications/)
 - Artem V. Tomilp, Oleksandr V. Pylypovskyi, Kostiantyn V. Yershov, and Denis D. Sheka,
 “Simulation of 3D spin chains with geometry-driven anisotropy ”, Proceedings of the XVIII
 International Young Scientists Conference On Applied Physics, March 24-27, Kyiv, Ukraine
-(2018)
+(2018), URL:
+[https://indico.knu.ua/event/2/contributions/272/](https://indico.knu.ua/event/2/contributions/272/)
 - Artem V. Tomilo, Yuriy S. Bilogorodsky, “Using of crowdsourcing technology combined
 with an ant algorithm to find optimal routes by rail”, Proceedings of All-Ukrainian Research
 Paper Defense Competition of the Junior Academy of Sciences, April 25-28, Kyiv, Ukraine
-(2017)
+(2017), URL:
+[https://man.gov.ua/en/contests/olympiad/konkurs-zahist-naukovo-doslidnicskih-robit-uchniv-chleniv-man](https://man.gov.ua/en/contests/olympiad/konkurs-zahist-naukovo-doslidnicskih-robit-uchniv-chleniv-man)
 
