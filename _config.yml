@@ -7,6 +7,8 @@ first_name: Artem
 middle_name:
 last_name: Tomilo
 email: artem.tomilo@math.uoc.gr
+description: Personal website of Artem Tomilo
+show_downloads: true
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website 
 
 lang: en
