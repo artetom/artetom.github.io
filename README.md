@@ -30,6 +30,15 @@ mathematics and natural science. During 2012-2017, I studied at the elite Cherka
 interested in the usage of mathematics in applied problems from simulating physical processes to optimizing railway routes. In 2017, 
 my work on heuristic algorithms for passenger rail travel won the Presidential Scholarship of Ukraine.
 
+Now I am an PhD student in University of Crete and scientific worker in Foundation for Research & Technology – Hellas (FORTH) research 
+center, where I am working in the group of Prof. Evangelos Harmandaris. His research team focuses on using cutting-edge computational 
+methods such as coarse-grained systems, neural networks, machine learning for semi-empirical potentials, density functional theory, and 
+molecular dynamics simulations to discover the properties of polymer systems (glass trasnsition temperature, density and stiffness 
+coefficient), which is still an open problem in physics and chemistry. My main achievement at this stage is that I could incorporate the 
+atomic cluster expansion method with a quantum mechanical basis into a particle representation of molecular dynamics to reproduce the properties 
+of small organic molecules. Thе given approach has significantly better accuracy of numerical simulations than semi-empirical potentials with a 
+slight increase in execution time.
+
 ## Interests and Hobbies
 
 - Interests: history, modern literature, astronomy
