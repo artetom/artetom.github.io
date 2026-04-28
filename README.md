@@ -19,36 +19,6 @@ Facebook account: [https://www.facebook.com/profile.php?id=61561555273927&locale
 - Taras Shevchenko National University of Kyiv (with Honor, bachelor's degree, 2017 – 2021)
 - Cherkasy Physics and Mathematics Lyceum (with Honor, school diploma, 2012-2017)
 
-## Brief Biography
-
-My name is Artem Tomilo. I was born in 1999 at middle sized city Cherkasy (Ukraine). Since childhood, I have been passionate about 
-mathematics and natural science. During 2012-2017, I studied at the elite Cherkasy Physics and Mathematics Lyceum, where I became 
-interested in the usage of mathematics in applied problems from simulating physical processes to optimizing railway routes. In 2017, 
-my work on heuristic algorithms for passenger rail travel won the Presidential Scholarship of Ukraine.
-
-After that, I entered the best university in Ukraine, namely Taras Shevchenko National University of Kyiv on bachelor's program in 
-Computer Engineering. As part of my undergraduate studies, I joined the group of Prof. Denis Sheka, where I developed a high-performance 
-spin-lattice simulator for magnetic research SLaSi ([http://slasi.knu.ua/](http://slasi.knu.ua/)). This software package has the 
-ability to perform calculations on a graphic card and multiple CPU cores. Within the framework of this project, three articles were 
-written, as well as several scientific conferences were attended and several scientific visits were made to scientific institutes in Germany.
-
-I have completed my master's degree at the Dresden University of Technology under the program Computational Modeling and Simulation.
-This study was sponsored by the German DAAD foundation to support foreign young people in studying for a master's degree in Germany.
-During this studying, I learned the latest computational techniques for simulating discrete and continuous physical systems (finite 
-element method and finite difference method for partial differential equations, as well as Metropolis–Hastings algorithm, particle mesh
-and cellular automata for particle systems that are described by ordinary differential equations. The master's thesis was defended with 
-the highest score in the research group of Prof. Andreas Deutsch. This work is related to the usage of cellular automata for describing 
-cell migrations in skin tissue.
-
-Now I am an PhD student in University of Crete and scientific worker in Foundation for Research & Technology – Hellas (FORTH) research 
-center, where I am working in the group of Prof. Evangelos Harmandaris. His research team focuses on using cutting-edge computational 
-methods such as coarse-grained systems, neural networks, machine learning for semi-empirical potentials, density functional theory, and 
-molecular dynamics simulations to discover the properties of polymer systems (glass trasnsition temperature, density and stiffness 
-coefficient), which is still an open problem in physics and chemistry. My main achievement at this stage is that I could incorporate the 
-atomic cluster expansion method with a quantum mechanical basis into a particle representation of molecular dynamics to reproduce the properties 
-of small organic molecules. Thе given approach has significantly better accuracy of numerical simulations than semi-empirical potentials with a 
-slight increase in execution time.
-
 ## Interests and Hobbies
 
 - Interests: history, modern literature, astronomy
