@@ -61,7 +61,8 @@ slight increase in execution time.
 
 ## Main Achievements
 
-- Training program in Cyprus Institute from EU 
+- Traineeship visit in Cyprus Institute from EU programe Erasmus+, Visit in Nicosia, Cyprus (2025), URL:
+[https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/traineeships-abroad-for-students](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/traineeships-abroad-for-students) 
 - Internship in Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG) with grant for a short research study,
 Dresden, Germany (2022), URL: [https://www.mpi-cbg.de/](https://www.mpi-cbg.de/) 
 - Student grant to receive master’s degree for all scientific subjects from non-profit foundation DAAD, Studying in Dresden,
