@@ -61,6 +61,8 @@ slight increase in execution time.
 
 ## Main Achievements
 
+- Student grant to receive master’s degree for all scientific subjects from non-profit foundation DAAD, Studying in Dresden,
+Germany (2021), URL: [https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200)
 - Participation in Huawei educational program “Seeds for Future”, Visit to Beijing and Shenzhen, China (2019), URL:
 [https://www.huawei.com/minisite/seeds-for-the-future/program.html](https://www.huawei.com/minisite/seeds-for-the-future/program.html)
 - Participation in the Research Group Linkage Programme of Prof. D. Sheka from Alexander von Humboldt Foundation “Statics and dynamics of
