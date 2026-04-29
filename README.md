@@ -19,7 +19,7 @@ Google Scholar account: [https://scholar.google.com/citations?user=PJDjbzcAAAAJ&
 ## Education
 
 - University of Crete (PhD degree, 2024 - now)
-- Dresden University of Technology (master's degree, 2021 – 2023)
+- TUD Dresden University of Technology (master's degree, 2021 – 2023)
 - Taras Shevchenko National University of Kyiv (with Honor, bachelor's degree, 2017 – 2021)
 - Cherkasy Physics and Mathematics Lyceum (with Honor, school diploma, 2012-2017)
 
