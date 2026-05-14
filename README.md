@@ -16,6 +16,8 @@ ORCID account: [http://orcid.org/0000-0002-5390-2767](http://orcid.org/0000-0002
 
 Google Scholar account: [https://scholar.google.com/citations?user=PJDjbzcAAAAJ&hl=en&authuser=1](https://scholar.google.com/citations?user=PJDjbzcAAAAJ&hl=en&authuser=1)
 
+YouTube channel: [https://www.youtube.com/@Arthemis-1999u](https://www.youtube.com/@Arthemis-1999u)
+
 ## Education
 
 - University of Crete (PhD degree, 2024 - now)
