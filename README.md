@@ -1,6 +1,6 @@
 ## Photo
 
-![alt text](personalPhoto.jpg)
+![alt text](accountPhoto.jpg)
 
 ## Contact
 
