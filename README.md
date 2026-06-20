@@ -101,7 +101,7 @@ Conference proceedings:
 - Artem Tomilo, Antonis Chazirakis, Nikolaos Patsalidis, Vagelis Harmandaris, "An Ab-initio Based
 Software Pipeline for Machine Learning Models in Molecular Dynamics Simulations of Complex Molecular Systems",
 Proceedings of 15th Hellenic Scientific Conference on Chemical Engineering, June 3-5, Chania, Greece (2026), URL:
-https://pesxm15.tuc.gr/%cf%80%cf%81%ce%b1%ce%ba%cf%84%ce%b9%ce%ba%ce%ac-%cf%83%cf%85%ce%bd%ce%b5%ce%b4%cf%81%ce%af%ce%bf%cf%85/
+[https://pesxm15.tuc.gr/%cf%80%cf%81%ce%b1%ce%ba%cf%84%ce%b9%ce%ba%ce%ac-%cf%83%cf%85%ce%bd%ce%b5%ce%b4%cf%81%ce%af%ce%bf%cf%85/](https://pesxm15.tuc.gr/%cf%80%cf%81%ce%b1%ce%ba%cf%84%ce%b9%ce%ba%ce%ac-%cf%83%cf%85%ce%bd%ce%b5%ce%b4%cf%81%ce%af%ce%bf%cf%85/)
 - Artem Tomilo, Nikolaos Patsalidis, George Sakellion, Evangelos Harmandaris “Molecular Dynamics
 Simulations for Organic Molecules using Atomic Cluster Expansion Potentials”, Proceedings of
 15th Hellenic Polymer Society Conference, December 3-6, Patras, Greece (2025), URL:
